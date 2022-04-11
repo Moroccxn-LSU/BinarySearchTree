@@ -1,0 +1,2 @@
+RMQ runtime (ns): 1300
+naiveRMQ runtime (ns): 17900
